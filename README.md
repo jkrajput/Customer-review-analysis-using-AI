@@ -29,3 +29,13 @@ ReviewSense AI is an AI-powered customer review analysis tool built with Streaml
    ```bash
    git clone https://github.com/yourusername/reviewsense-ai.git
    cd reviewsense-ai
+
+## Screenshot  
+Here’s a preview of a review analysis:  
+
+![r1](https://github.com/user-attachments/assets/518cfbd7-9bb1-43ed-b842-64d7a7c25a0b)
+![r2](https://github.com/user-attachments/assets/524633ce-3bd8-4cba-a6de-bee7fdb230d0)
+
+
+
+---
